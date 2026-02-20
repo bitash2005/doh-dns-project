@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Certificates & Keys (خیلی مهم)
+key.pem
+cert.pem
+src/key.pem
+src/cert.pem
+ui/key.pem
+ui/cert.pem
+
+# Binaries
+*.bin
+resp.bin
+
+# OS
+.DS_Store
+Thumbs.db
